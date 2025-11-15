@@ -8,4 +8,5 @@ https://drive.google.com/drive/folders/1Iixluiq6h3HJgICcFsYYFhoCftYg6UJ2?usp=dri
 -----
 
 <추가로 데이터가 필요할 때 >
-1. KOSIS(국가통계포털) 
+1. KOSIS(국가통계포털)
+https://kosis.kr/search/search.do?query=%EC%9E%90%EC%82%B4&utm_source=chatgpt.com
