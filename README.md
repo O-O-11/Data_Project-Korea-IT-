@@ -9,6 +9,10 @@ https://drive.google.com/drive/folders/1Iixluiq6h3HJgICcFsYYFhoCftYg6UJ2?usp=dri
 (출처)</b>
 1. CHS(지역사회건강조사) 
 2. KNHANES(국가건강영양조사) -> 원시자료 다운로드
+
+## == 최종 feature 정리 == 
+https://www.notion.so/ics-skku/2addfa81ac1e80e5a8d7e62946b409ed?source=copy_link
+
 -----
 
 <추가로 데이터가 필요할 때 >
